@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="(https://icones.pro/wp-content/uploads/2022/07/icones-d-eclair-violet.png)" width="20%">
+  <img src="https://icones.pro/wp-content/uploads/2022/07/icones-d-eclair-violet.png" width="20%">
 </p>
 # Windowshoes
 
